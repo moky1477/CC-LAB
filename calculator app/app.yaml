@@ -1,0 +1,9 @@
+runtime: python310
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /
+  script: main.app
+
+# py google-cloud-sdk\bin\dev_appserver.py C:\Users\anann\Documents\vit\TY\sem6\CC\lab\lab 2\calculator
