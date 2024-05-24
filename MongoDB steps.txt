@@ -1,0 +1,9 @@
+1. Create cluster by deleting previos
+2. Go to Drivers
+3. Copy connection string
+4. Go to databases
+5. Go to cluster0
+6. Open code in vscode, install libraries
+7. in terminal, .\env\Scripts\Activate
+8. python app.py
+9. Check database
