@@ -1,0 +1,17 @@
+Lab - 5 Salesforce
+1. Setting top left ->setup
+2. Object Manager - > Create an object Instance
+3. Fill label, plural label and save
+4. Edit and Add description
+5. Go to fields and relationship option
+6. Click on new at left middle to create new field
+7. Select text circle and next
+8. Fill the field label and length, remove auto add option,select mask type and character and next
+9. Next and save. App object is created
+10. For app creation, go to search bar and find app manager
+11. New Lighting on top left, fill app name, developer name, description, image and next
+12. No changes and next
+13. Add utility item - rich text and next
+14. no changes and next
+25. Add sys admin in last step, then save
+15. You can see the app in Lightening Experience App Manager
